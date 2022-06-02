@@ -3,7 +3,7 @@
 ### Task 1.3
 
 - **ping**  *buyrug'ini ishlatilishi :)*
-  ![ping](ping.jpg)
+  ![ping](image/ping.jpg)
 
 ### Task 1.4
 
@@ -19,46 +19,46 @@
 ### Task 1.6
 
 - **whoami** and **grep ${USER} /etc/passwd**  *buyruqlarini ishlatib tekshiramiz :)*
-  ![whoami](whoami.jpg)
+  ![whoami](image/whoami.jpg)
 
 ### Task 1.7
 
 - **man** - buyrug'i bizga linux commandalarini o'rganishda keng qulayliklarni yaratadi ya'ni bu buyruq orqali bizga kerakli terminal buyrug'ini qanday ishlashi bo'yicha qo'llanmaga ega bo'lamiz. *Masalan: **man grep** ko'rinishida yozsak quyidagicha ma'lumotlar keltirib chiqaradi bizga* 
    
-![man](man.jpg)
+![man](image/man.jpg)
 
 ### Task 1.8
 
 - **date, pwd, ls, uname, id, who** - *buyruqlarini haqida va bajarib ko'ramiz :)*
 
   - **date** - buyrug'i terminalimizda bugungi sanani ko'rsatadi.
-![date](date.jpg)
+![date](image/date.jpg)
   - **pwd** - buyrug'i bizga ayni turgan joyimizgacha bo'lgan yo'lni ko'rsatadi
-![pwd](pwd.jpg)
+![pwd](image/pwd.jpg)
   - **ls** - buyrug'i bizga hozi turgan papkamizni ichida nimalar borligini ko'rsatadi
-![ls](ls.jpg)
+![ls](image/ls.jpg)
   - **uname** - buyrug'i bizga qanaqa tizimda ishlayotganimizni aniqlash uchun kerak ya'ni qanaqa tizim ekanligini ko'rsatadi.
-![uname](uname.jpg)
+![uname](image/uname.jpg)
 
   - **id** - buyrug'i bizga hozirgi yoki tizimdagi foydalanivchilarni id, uid, gruop id larini chiqarib beradi.
-![id](id.jpg)
+![id](image/id.jpg)
 
   - **who** - buyrug'i bizga tizimda hozir ishlayotgan foydalanuvchi va uni qachon kirganligi haqida ma'lumot beradi.
-![who](who.jpg)
+![who](image/who.jpg)
 
 - **date** practikasi :)
-  ![prac](prac.jpg)
+  ![prac](image/prac.jpg)
 
 - **uname -a** practikasi :)
-  ![unameprac](unameprac.jpg)
+  ![unameprac](image/unameprac.jpg)
 
 - **w** practikasi :)
-  ![information](information.jpg)
+  ![information](image/information.jpg)
 
 ### Task 1.9
 
 - **alias** - bu buyruqni ishlatishni o'rganishdan oldin qisqacha ta'rif: alias bizga commandalarni qisqaroq yozish va tezroq ishni bitirishimiz uchun anchayin qo'l keladi ya'ni uzundan uzun kodlarni biz o'zimizga qulay qilib olib ooshqa o'zgaruvchiga tenglab olib osha uzun kodlar ishlatiladigan joylarda o'zimiz tenglab olgan qisqagina o'zgaruvchini ishlatsak bo'ladi. Masalan quyidagicha
-  ![alias](alias.jpg)
+  ![alias](image/alias.jpg)
 
 
 - **Variable** - bu ****************
@@ -77,7 +77,7 @@
 ### Task 1.11
 
 - **|** - bu buyruq bizda pipe deyiladi, buni ishimizni anvchayendillashtirish uchun ya'ni takrorlanishni oldini olish uchun ishlatamiz. Masalan: bitta fayl ustida ikkita amal bajarishimiz kerak bo'lsa bu buyruqni ishlatamiz.
-  ![pipe](pipe.jpg)
+  ![pipe](image/pipe.jpg)
 quyidagicha yozib ko'piroq bilib olsak bo'ladi :)
 
 - **&** - bu buyruq terminalimizda buyruqlar ketma-ketligini bitta qatorga uzun qilib yozmaslik uchun ishlatamiz ya'ni chiroyliroq ishlash taktikasi va ishlatayotgan buyruqlarni anchayin qulay ko'ring uchun kerak va asosiy qiladigan ishi birinchi bergan buyruqni amalga oshiradi va uni tugashini kutmasdan backgraunga o'tkazib ikkinchi buyruqni ham ishga tushuraveradi.
@@ -88,33 +88,33 @@ quyidagicha yozib ko'piroq bilib olsak bo'ladi :)
   
 ### Task 1.12
 
-![pingalias](pingalias.jpg)
+![pingalias](image/pingalias.jpg)
 
 
 
 ## **HOMEWORK - 1**
 - ## **h-1**
-![recall](recall.jpg)
-![lat](lat.jpg)
-![datemonth](datemonth.jpg)
+![recall](image/recall.jpg)
+![lat](image/lat.jpg)
+![datemonth](image/datemonth.jpg)
 
 - ## **h-2**
   Bu vazifani qilish uchun men ozgina script yozdim va natija oldim
-  - ![script](script.jpg)
-  - ![natija](natija.jpg)
+  - ![script](image/script.jpg)
+  - ![natija](image/natija.jpg)
 
 - ## **h-3**
 
 - *hostname*
-  - ![host](host.jpg)
+  - ![host](image/host.jpg)
 
 - *username*
-  - ![user](user.jpg)
+  - ![user](image/user.jpg)
 
 - *home directory*
-  - ![home](home.jpg)
+  - ![home](image/home.jpg)
 
 - ## **h-4**
 
-  - ![mypass](mypass.jpg)
-  - ![mypass2`](mypass2.jpg)# Homework-1
+  - ![mypass](image/mypass.jpg)
+  - ![mypass2`](image/mypass2.jpg)# Homework-1
