@@ -117,5 +117,5 @@ quyidagicha yozib ko'piroq bilib olsak bo'ladi :)
 - ## **h-4**
 
   - ![mypass](image/mypass.jpg)
-  - ![mypass2`](image/mypass2.jpg)# Homework-1
+  - ![mypass2`](image/mypass2.jpg)
 
