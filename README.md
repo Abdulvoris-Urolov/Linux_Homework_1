@@ -1,33 +1,33 @@
 # **Linux Homework 1**
 
-### Task 1.3
+### 🔰Task 1.3
 
 - **ping**  *buyrug'ini ishlatilishi :)*
   ![ping](image/ping.jpg)
 
-### Task 1.4
+### 🔰Task 1.4
 
 - **Shell** - bu biz buyruqlar, dasturlar va qobiq skriptlarini ishga tushirishimiz mumkin bo'lgan muhit.
 
-### Task 1.5
+### 🔰Task 1.5
 
 - **$** and **#** *belgilari :)*
   
   - **$** - bu belgi siz oddiy foydalanuvchi ekanligingizni bildiradi
   - **#** - bu belgi siz adminstrator ekanligingizni bildiradi ya'ni hamma joyni boshqarish huquqi sizda bo'ladi
 
-### Task 1.6
+### 🔰Task 1.6
 
 - **whoami** and **grep ${USER} /etc/passwd**  *buyruqlarini ishlatib tekshiramiz :)*
   ![whoami](image/whoami.jpg)
 
-### Task 1.7
+### 🔰Task 1.7
 
 - **man** - buyrug'i bizga linux commandalarini o'rganishda keng qulayliklarni yaratadi ya'ni bu buyruq orqali bizga kerakli terminal buyrug'ini qanday ishlashi bo'yicha qo'llanmaga ega bo'lamiz. *Masalan: **man grep** ko'rinishida yozsak quyidagicha ma'lumotlar keltirib chiqaradi bizga* 
    
 ![man](image/man.jpg)
 
-### Task 1.8
+### 🔰Task 1.8
 
 - **date, pwd, ls, uname, id, who** - *buyruqlarini haqida va bajarib ko'ramiz :)*
 
@@ -55,7 +55,7 @@
 - **w** practikasi :)
   ![information](image/information.jpg)
 
-### Task 1.9
+### 🔰Task 1.9
 
 - **alias** - bu buyruqni ishlatishni o'rganishdan oldin qisqacha ta'rif: alias bizga commandalarni qisqaroq yozish va tezroq ishni bitirishimiz uchun anchayin qo'l keladi ya'ni uzundan uzun kodlarni biz o'zimizga qulay qilib olib ooshqa o'zgaruvchiga tenglab olib osha uzun kodlar ishlatiladigan joylarda o'zimiz tenglab olgan qisqagina o'zgaruvchini ishlatsak bo'ladi. Masalan quyidagicha
   ![alias](image/alias.jpg)
@@ -65,7 +65,7 @@
 - **Username** - bu foydalanayotgan serverimizni ichidagi foydalanuvchi nomilari hisoblanadi.
 - **Hostname** - bu foydalanayotgan serverimizni globalniy ya'ni butun jahon taniydigan nomi hisoblanadi.
   
-### Task 1.10
+### 🔰Task 1.10
 
 **Command-line recall**
 - **history** - bu buyruq tizimda ishlatilgan barcha commandalarni  tartib bilan chiqarib beradi.
@@ -74,7 +74,7 @@
 - **!!** - bu buyruq oxirgi buyruqni qaytaradi uni ishga tushurmasdan yozib beradi.
 - **!?string?** - bu buyruuq **!n** bilan bir xil.
   
-### Task 1.11
+### 🔰Task 1.11
 
 - **|** - bu buyruq bizda pipe deyiladi, buni ishimizni anvchayendillashtirish uchun ya'ni takrorlanishni oldini olish uchun ishlatamiz. Masalan: bitta fayl ustida ikkita amal bajarishimiz kerak bo'lsa bu buyruqni ishlatamiz.
   ![pipe](image/pipe.jpg)
@@ -86,24 +86,24 @@ quyidagicha yozib ko'piroq bilib olsak bo'ladi :)
 - **>** - bu buyruq tizim ichidagi fayllarni ichidagi ma'lumotlarni boshqa bir alohida fayl ga olishimiz uchun kerak.
 - **;** - bu buyruq commanda tugaganligini bildiradi.
   
-### Task 1.12
+### 🔰Task 1.12
 
 ![pingalias](image/pingalias.jpg)
 
 
 
-## **HOMEWORK - 1**
-- ## **h-1**
+## **✅ HOMEWORK - 1**
+- ## **📍 h-1**
 ![recall](image/recall.jpg)
 ![lat](image/lat.jpg)
 ![datemonth](image/datemonth.jpg)
 
-- ## **h-2**
+- ## **📍 h-2**
   Bu vazifani qilish uchun men ozgina script yozdim va natija oldim
   - ![script](image/script.jpg)
   - ![natija](image/natija.jpg)
 
-- ## **h-3**
+- ## **📍 h-3**
 
 - *hostname*
   - ![host](image/host.jpg)
@@ -114,7 +114,7 @@ quyidagicha yozib ko'piroq bilib olsak bo'ladi :)
 - *home directory*
   - ![home](image/home.jpg)
 
-- ## **h-4**
+- ## **📍 h-4**
 
   - ![mypass](image/mypass.jpg)
   - ![mypass2`](image/mypass2.jpg)
