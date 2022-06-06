@@ -1,5 +1,9 @@
 # **Linux Homework 1**
 
+### 🔰Task 1.2
+
+- **OS** - operatsion sistema haqida
+  ![image](image/os.jpg)
 ### 🔰Task 1.3
 
 - **ping**  *buyrug'ini ishlatilishi :)*
@@ -21,6 +25,7 @@
 - **whoami** and **grep ${USER} /etc/passwd**  *buyruqlarini ishlatib tekshiramiz :)*
   ![whoami](image/whoami.jpg)
 
+bunda **whoami** buyrug'i bizni kimligimizni chiqarib beradi yani bizzi ismimizni. **grep** esa biz so'rayotgan narsani topib bering uchun xizmat qiladi. **${USER}** bu esa bizni hozirgi userimizni o'zgaruvchidan aniqlashni bildiradi. **/etc/passwd** bu esa o'sha o'zgaruvchini yo'li yani qayerdan izlash kerakligini ko'rsatadi.
 ### 🔰Task 1.7
 
 - **man** - buyrug'i bizga linux commandalarini o'rganishda keng qulayliklarni yaratadi ya'ni bu buyruq orqali bizga kerakli terminal buyrug'ini qanday ishlashi bo'yicha qo'llanmaga ega bo'lamiz. *Masalan: **man grep** ko'rinishida yozsak quyidagicha ma'lumotlar keltirib chiqaradi bizga* 
@@ -61,7 +66,7 @@
   ![alias](image/alias.jpg)
 
 
-- **Variable** - bu ****************
+- **Variable** - bu bizda o'zgaruvchi qiymatlar hisoblanadi. Masalan: USER yoki password yoki portlar va hakozo.
 - **Username** - bu foydalanayotgan serverimizni ichidagi foydalanuvchi nomilari hisoblanadi.
 - **Hostname** - bu foydalanayotgan serverimizni globalniy ya'ni butun jahon taniydigan nomi hisoblanadi.
   
@@ -69,14 +74,15 @@
 
 **Command-line recall**
 - **history** - bu buyruq tizimda ishlatilgan barcha commandalarni  tartib bilan chiqarib beradi.
-- **!n** - bu buyruq terminalda oxirgi n bilan boshlangan buyruqni ishlatmasdan terminalga yozib beradi. *Masalan: **!g** bo'lsa g bilan boshlangan oxirgisini chiqaradi*
+- **!n** - bu buyruq terminalda oxirgi n bilan boshlangan buyruqni ishlatmasdan terminalga yozib beradi. *Masalan: **!g** bo'lsa g bilan boshlangan oxirgisini chiqaradi* 
+yana ikkinchi xususiyati bu buyruqlarni *history* dagi tartib raqami bo'yicha izlasa chiqarib beradi.
   
 - **!!** - bu buyruq oxirgi buyruqni qaytaradi uni ishga tushurmasdan yozib beradi.
 - **!?string?** - bu buyruuq **!n** bilan bir xil.
   
 ### 🔰Task 1.11
 
-- **|** - bu buyruq bizda pipe deyiladi, buni ishimizni anvchayendillashtirish uchun ya'ni takrorlanishni oldini olish uchun ishlatamiz. Masalan: bitta fayl ustida ikkita amal bajarishimiz kerak bo'lsa bu buyruqni ishlatamiz.
+- **|** - bu buyruq bizda pipe deyiladi, buni ishimizni ancha yengillashtirish uchun ya'ni takrorlanishni oldini olish uchun ishlatamiz. Masalan: bitta fayl ustida ikkita amal bajarishimiz kerak bo'lsa bu buyruqni ishlatamiz.
   ![pipe](image/pipe.jpg)
 quyidagicha yozib ko'piroq bilib olsak bo'ladi :)
 
