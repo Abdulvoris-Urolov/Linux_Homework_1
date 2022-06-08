@@ -11,7 +11,7 @@
 
 ### 🔰Task 1.4
 
-- **Shell** - bu biz buyruqlar, dasturlar va qobiq skriptlarini ishga tushirishimiz mumkin bo'lgan muhit.
+- **Shell** - bu biz buyruqlar, dasturlar va skript buyruqlarini ishga tushirishimiz mumkin bo'lgan muhit.
 
 ### 🔰Task 1.5
 
