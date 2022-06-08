@@ -51,13 +51,13 @@ bunda **whoami** buyrug'i bizni kimligimizni chiqarib beradi yani bizzi ismimizn
   - **who** - buyrug'i bizga tizimda hozir ishlayotgan foydalanuvchi va uni qachon kirganligi haqida ma'lumot beradi.
 ![who](image/who.jpg)
 
-- **date** practikasi :)
+- **date** amaliyoti 😃
   ![prac](image/prac.jpg)
 
-- **uname -a** practikasi :)
+- **uname -a** amaliyoti 😃
   ![unameprac](image/unameprac.jpg)
 
-- **w** practikasi :)
+- **w** amaliyoti 😃
   ![information](image/information.jpg)
 
 ### 🔰Task 1.9
